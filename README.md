@@ -3,6 +3,7 @@
 
 ## Table of contents
 - [project Overview](#project-overview)
+- [Business Problem](business-problem)
 
 ### Project Overview
 ####As a Data Analyst Consultant at Amdari, I worked with Streamline Logistics Solutions to "
