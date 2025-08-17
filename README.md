@@ -15,6 +15,15 @@ Growing customer dissatisfaction caused by delayed deliveries
 Rising costs from overtime and expedited shipments
 Poor visibility into real-time operations and driver performance"
 
+### Data Sources
+
+Logistics Deliver Data: The primary dataset used for this analysis is the "Logistics_data.csv", containing detailed information on deliveries made by the company.
+
+### Tools
+
+- Excel  Data cleaning and visualisation [Download here]((https://1drv.ms/x/c/273014e204d974cb/EdRAprWaKRJGor7wPtPCpC0BTnzh0S-bAlw41fDrz_vpMw?e=FjgyK5&nav=MTVfe0Y2MkVBMDBFLTcyMzMtNEU2OS05MkU0LTUyN0VGRUU2MjAzM30)
+- Office Script
+
 
 
 
