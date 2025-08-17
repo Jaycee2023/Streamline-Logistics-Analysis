@@ -5,8 +5,8 @@
 ####As a Data Analyst Consultant at Amdari, I worked with Streamline Logistics Solutions to "
 tackle critical inefficiencies in their order fulfilment process. Using Microsoft Excel and 
 Office Scripts, I built an interactive dashboard that provided visibility into backlogs, 
-    delivery delays, resource allocation, and customer satisfaction. My work led to improved 
-    operational decision-making and significant time savings in reporting.
+delivery delays, resource allocation, and customer satisfaction. My work led to improved 
+operational decision-making and significant time savings in reporting.
 
 ### Business Problem
 Streamline Logistics faced significant operational challenges impacting their service delivery
@@ -14,6 +14,8 @@ Mounting order backlogs due to inefficient routing and resource allocation
 Growing customer dissatisfaction caused by delayed deliveries
 Rising costs from overtime and expedited shipments
 Poor visibility into real-time operations and driver performance"
+
+
 
 
 
