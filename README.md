@@ -1,10 +1,31 @@
 # Streamline-Logistics-Analysis
-###An interactive dashboard that provides visibility into backlogs, delivery delays, resource allocation, and customer satisfaction. 
+## An interactive dashboard that provides visibility into backlogs, delivery delays, resource allocation, and customer satisfaction. 
+
+### Project Overview
+####As a Data Analyst Consultant at Amdari, I worked with Streamline Logistics Solutions to "
+tackle critical inefficiencies in their order fulfilment process. Using Microsoft Excel and 
+Office Scripts, I built an interactive dashboard that provided visibility into backlogs, 
+    delivery delays, resource allocation, and customer satisfaction. My work led to improved 
+    operational decision-making and significant time savings in reporting.
+
+### Business Problem
+Streamline Logistics faced significant operational challenges impacting their service delivery
+Mounting order backlogs due to inefficient routing and resource allocation
+Growing customer dissatisfaction caused by delayed deliveries
+Rising costs from overtime and expedited shipments
+Poor visibility into real-time operations and driver performance"
+
+
+
+
+
+
+
 
 📊 Visual Insights & Analysis Breakdown
 🧩 Preliminary Analysis (Steps 1 & 2)
 
-Questions Answered:
+####Questions Answered:
 Backlogged Orders: 767 in-progress orders
 Average Delay:
 Overall: 14.51 mins
@@ -12,7 +33,7 @@ Zone 1: 14.23 mins
 Zone 2: 14.67 mins
 Zone 3: 14.63 mins
 
-Highest Delay: Zone 2
+####Highest Delay: Zone 2
 Customer Feedback:
 Negative: 529
 Neutral: 490
@@ -53,7 +74,7 @@ Custom Rules: 14.30 mins
 KPI	Insight
 On-Time Deliveries	Only 3% – indicates a major performance issue
 Backlog Rate	Ranges from 46% to 53% by route – significantly high
-Most Delayed Route	Route 3
+Most Delayed Route	: Route 3
 Most Delayed Driver	Varies across D8, D10, D86 depending on route/zone
 Customer Satisfaction	Averages ~30% across routes – reflects delivery delays
 🧮 Office Script Automations
