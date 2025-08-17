@@ -22,7 +22,9 @@ Logistics Deliver Data: The primary dataset used for this analysis is the "Logis
 ### Tools
 
 - Excel  Data cleaning and visualisation [Download here]((https://1drv.ms/x/c/273014e204d974cb/EdRAprWaKRJGor7wPtPCpC0BTnzh0S-bAlw41fDrz_vpMw?e=FjgyK5&nav=MTVfe0Y2MkVBMDBFLTcyMzMtNEU2OS05MkU0LTUyN0VGRUU2MjAzM30)
-- Office Script
+- Office Scripts (for automation)
+- PivotTables, charts, and conditional formatting
+- PowerPoint for presentation
 
 
 
