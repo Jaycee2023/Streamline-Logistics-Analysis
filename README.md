@@ -4,6 +4,8 @@
 ## Table of contents
 - [project Overview](#project-overview)
 - [Business Problem](business-problem)
+- [Data Sources](data-sources)
+- [Tools](tools)
 
 ### Project Overview
 ####As a Data Analyst Consultant at Amdari, I worked with Streamline Logistics Solutions to "
