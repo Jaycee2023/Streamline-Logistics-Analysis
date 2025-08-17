@@ -27,7 +27,13 @@ Logistics Deliver Data: The primary dataset used for this analysis is "Logistics
 - PowerPoint for presentation
 
 
-### Data Cleaning and preparation
+### Data Cleaning and Preparation
+In the initial data preparation phase, we performed the following tasks
+1. Data loading and inspection
+2. Handling missing values.
+3. Data cleaning and formatting
+4. Calculated fields: Delivery Duration, Delay Category, On-Time Status
+5. Created feedback sentiment scoring and delivery zone groupings"
 
 
 
