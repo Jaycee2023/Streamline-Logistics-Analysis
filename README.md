@@ -1,6 +1,9 @@
 # Streamline-Logistics-Analysis
 ## An interactive dashboard that provides visibility into backlogs, delivery delays, resource allocation, and customer satisfaction. 
 
+## Table of contents
+- [project Overview](#project-overview)
+
 ### Project Overview
 ####As a Data Analyst Consultant at Amdari, I worked with Streamline Logistics Solutions to "
 tackle critical inefficiencies in their order fulfilment process. Using Microsoft Excel and 
@@ -36,11 +39,14 @@ In the initial data preparation phase, we performed the following tasks
 5. Created feedback sentiment scoring and delivery zone groupings"
 
 
+##Exploratory Data Analysis
 
 
 
 
 
+
+### Results and Findings
 
 📊 Visual Insights & Analysis Breakdown
 🧩 Preliminary Analysis (Steps 1 & 2)
@@ -94,7 +100,7 @@ Custom Rules: 14.30 mins
 KPI	Insight
 On-Time Deliveries	Only 3% – indicates a major performance issue
 Backlog Rate	Ranges from 46% to 53% by route – significantly high
-Most Delayed Route	: Route 3
+Most Delayed Route: Route 3
 Most Delayed Driver	Varies across D8, D10, D86 depending on route/zone
 Customer Satisfaction	Averages ~30% across routes – reflects delivery delays
 🧮 Office Script Automations
