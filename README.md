@@ -17,7 +17,7 @@ Poor visibility into real-time operations and driver performance"
 
 ### Data Sources
 
-Logistics Deliver Data: The primary dataset used for this analysis is the "Logistics_data.csv", containing detailed information on deliveries made by the company.
+Logistics Deliver Data: The primary dataset used for this analysis is "Logistics_data.csv", which contains detailed information on deliveries made by the company.
 
 ### Tools
 
@@ -27,6 +27,7 @@ Logistics Deliver Data: The primary dataset used for this analysis is the "Logis
 - PowerPoint for presentation
 
 
+### Data Cleaning and preparation
 
 
 
