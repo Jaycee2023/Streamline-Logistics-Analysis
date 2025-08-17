@@ -12,6 +12,9 @@ Office Scripts, I built an interactive dashboard that provided visibility into b
 delivery delays, resource allocation, and customer satisfaction. My work led to improved 
 operational decision-making and significant time savings in reporting.
 
+<img width="1137" height="742" alt="image" src="https://github.com/user-attachments/assets/5950259d-6a79-4ff4-89a9-e7b66b94df94" />
+
+
 ### Business Problem
 Streamline Logistics faced significant operational challenges impacting their service delivery
 Mounting order backlogs due to inefficient routing and resource allocation
