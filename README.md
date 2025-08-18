@@ -131,7 +131,11 @@ Customer Satisfaction	Averages ~30% across routes – reflects delivery delays
 
 ### Recommendations
 1. Reroute Optimisation: Reassign heavy routes like route one and route 5 to faster alternatives based on the delivery history.
-2. Diver Retraining Program: Focus on frequently delayed drivers e g, Drivers D8, D10 and D64 with route familiarisation and performance incentives, or do a general retraining of all drivers
+2. Diver Retraining Program: Focus on frequently delayed drivers, e.g., Drivers D8, D10 and D64 with route familiarisation and performance incentives, or do a general retraining of all drivers.
+3. Dynamic Vehicle Allocation: Balance vehicle types per zone, avoid over-reliance on vans, and  use bikes for shorter routes to reduce average delay time.
+4. Customer Feedback Loop Integration: Prioritise faster resolutions on orders with negative feedback. Incorporate real-time tracking and proactive communication.
+5. Backlog Reduction Time: Allocate temporary workforce or shift schedule during high volume periods and consider predictive analytics for staffing.
+6. Monitor KPIs Weekly: Establish weekly report cadence using dashboard, focusing on backlog trends, delivery delays and satisfaction.
 
 
 🧮 Office Script Automations
