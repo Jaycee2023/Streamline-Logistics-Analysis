@@ -9,6 +9,7 @@
 - [Data Cleaning and Preparation](data-cleaning-and-preparation)
 - [Exploratory Data Analysis](exploratory-data-analysis)
 - [Results and findings](results-and-findings)
+- [Recommendations](recommendations)
 
 ### Project Overview
 ####As a Data Analyst Consultant at Amdari, I worked with Streamline Logistics Solutions to "
@@ -131,6 +132,10 @@ Backlog Rate	Ranges from 46% to 53% by route – significantly high
 Most Delayed Route: Route 3
 Most Delayed Driver	Varies across D8, D10, D86 depending on route/zone
 Customer Satisfaction	Averages ~30% across routes – reflects delivery delays
+
+### Recommendations
+
+
 🧮 Office Script Automations
 
 Script Tasks Completed:
