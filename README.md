@@ -8,6 +8,7 @@
 - [Tools](tools)
 - [Data Cleaning and Preparation](data-cleaning-and-preparation)
 - [Exploratory Data Analysis](exploratory-data-analysis)
+- [Results and findings](results-and-findings)
 
 ### Project Overview
 ####As a Data Analyst Consultant at Amdari, I worked with Streamline Logistics Solutions to "
@@ -66,6 +67,10 @@ Two types of EDAs were conducted:
 3. Which routes are the most problematic in terms of delivery?
 4. Are certain vehicles associated with higher delays?
 5. How do the 'Expedited Rules'perform compared to 'Customer Rules' in terms of delays?
+ <img width="1266" height="631" alt="image" src="https://github.com/user-attachments/assets/34ca1bc2-d9c0-4c12-8ace-8d96772a9ce0" />
+ <img width="1261" height="337" alt="image" src="https://github.com/user-attachments/assets/27655312-9b02-4f4c-aa1b-5cf6868bdd6b" />
+
+  
 
 
 
