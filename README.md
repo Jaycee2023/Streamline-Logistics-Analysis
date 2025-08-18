@@ -45,8 +45,18 @@ In the initial data preparation phase, we performed the following tasks
 5. Created feedback sentiment scoring and delivery zone groupings"
 
 
-##Exploratory Data Analysis
+###Exploratory Data Analysis
+Two types of EDAs were conducted:
+Preliminary Analysis: Given our business problem
+1. How many orders are currently backlogged?
+2. What is the average delay of the deliveries?
+3. Which delivery zone experiences the highest average delays?
+4. What is the distribution of customer feedback?
+5. How many orders are 'Expediated Rules' Vs 'Custom'?
 
+<img width="586" height="630" alt="image" src="https://github.com/user-attachments/assets/3964580d-3f96-4bb2-be62-1939b0ed104a" />
+
+<img width="481" height="359" alt="image" src="https://github.com/user-attachments/assets/056a2c6f-f659-41f3-ae70-e8f8f4812e42" />
 
 
 
