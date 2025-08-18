@@ -71,10 +71,6 @@ Two types of EDAs were conducted:
  <img width="1266" height="631" alt="image" src="https://github.com/user-attachments/assets/34ca1bc2-d9c0-4c12-8ace-8d96772a9ce0" />
  <img width="1261" height="337" alt="image" src="https://github.com/user-attachments/assets/27655312-9b02-4f4c-aa1b-5cf6868bdd6b" />
 
-  
-
-
-
 ### Results and Findings
 
 📊 Visual Insights & Analysis Breakdown
@@ -134,6 +130,8 @@ Most Delayed Driver	Varies across D8, D10, D86 depending on route/zone
 Customer Satisfaction	Averages ~30% across routes – reflects delivery delays
 
 ### Recommendations
+1. Reroute Optimisation: Reassign heavy routes like route one and route 5 to faster alternatives based on the delivery history.
+2. Diver Retraining Program: Focus on frequently delayed drivers e g, Drivers D8, D10 and D64 with route familiarisation and performance incentives, or do a general retraining of all drivers
 
 
 🧮 Office Script Automations
