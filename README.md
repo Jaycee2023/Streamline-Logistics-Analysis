@@ -6,6 +6,8 @@
 - [Business Problem](business-problem)
 - [Data Sources](data-sources)
 - [Tools](tools)
+- [Data Cleaning and Preparation](data-cleaning-and-preparation)
+- [Exploratory Data Analysis](exploratory-data-analysis)
 
 ### Project Overview
 ####As a Data Analyst Consultant at Amdari, I worked with Streamline Logistics Solutions to "
@@ -15,7 +17,6 @@ delivery delays, resource allocation, and customer satisfaction. My work led to 
 operational decision-making and significant time savings in reporting.
 
 <img width="1137" height="742" alt="image" src="https://github.com/user-attachments/assets/5950259d-6a79-4ff4-89a9-e7b66b94df94" />
-
 
 ### Business Problem
 Streamline Logistics faced significant operational challenges impacting their service delivery
@@ -47,7 +48,7 @@ In the initial data preparation phase, we performed the following tasks
 
 ###Exploratory Data Analysis
 Two types of EDAs were conducted:
-Preliminary Analysis: Given our business problem
+##A. Preliminary Analysis: Given our business problem
 1. How many orders are currently backlogged?
 2. What is the average delay of the deliveries?
 3. Which delivery zone experiences the highest average delays?
@@ -59,6 +60,12 @@ Preliminary Analysis: Given our business problem
 <img width="481" height="359" alt="image" src="https://github.com/user-attachments/assets/056a2c6f-f659-41f3-ae70-e8f8f4812e42" />
 
 
+##B. Deep Dive Analysis: To optimise the order fulfilment process, I looked into specific areas that can offer insights for improvements
+1. How does delivery correlate with customer feedback?
+2. Which drivers are the most problematic in terms of delivery?
+3. Which routes are the most problematic in terms of delivery?
+4. Are certain vehicles associated with higher delays?
+5. How do the 'Expedited Rules'perform compared to 'Customer Rules' in terms of delays?
 
 
 
